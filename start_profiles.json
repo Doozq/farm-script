@@ -1,0 +1,457 @@
+{
+    "497337226": {
+        "name": "1",
+        "balance": 178,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:45:04",
+        "last_claim": "2024-11-04T18:53:20"
+    },
+    "497395519": {
+        "name": "2",
+        "balance": 1,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:23:56",
+        "last_claim": "2024-11-04T18:20:17"
+    },
+    "497395598": {
+        "name": "3",
+        "balance": 247,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:41:49",
+        "last_claim": "2024-11-04T18:35:39"
+    },
+    "497395690": {
+        "name": "4",
+        "balance": 78,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:21:57",
+        "last_claim": "2024-11-04T18:32:14"
+    },
+    "497397361": {
+        "name": "5",
+        "balance": 217,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:44:17",
+        "last_claim": "2024-11-04T18:36:51"
+    },
+    "497397422": {
+        "name": "6",
+        "balance": 67,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:22:12",
+        "last_claim": "2024-11-04T18:34:37"
+    },
+    "497397485": {
+        "name": "7",
+        "balance": 278,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:23:44",
+        "last_claim": "2024-11-04T18:22:50"
+    },
+    "497397536": {
+        "name": "8",
+        "balance": 163,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:08:34",
+        "last_claim": "2024-11-04T18:30:06"
+    },
+    "497397593": {
+        "name": "9",
+        "balance": 151,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:06:40",
+        "last_claim": "2024-11-04T18:28:28"
+    },
+    "497397643": {
+        "name": "10",
+        "balance": 289,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:08:11",
+        "last_claim": "2024-11-04T18:10:18"
+    },
+    "497397695": {
+        "name": "11",
+        "balance": 216,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:45:38",
+        "last_claim": "2024-11-04T18:31:24"
+    },
+    "497397733": {
+        "name": "12",
+        "balance": 74,
+        "is_max": false,
+        "last_paint": "2024-11-04T21:30:55",
+        "last_claim": "2024-11-04T18:14:19"
+    },
+    "497397804": {
+        "name": "13",
+        "balance": 204,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:27:03",
+        "last_claim": "2024-11-04T18:33:36"
+    },
+    "497397852": {
+        "name": "14",
+        "balance": 299,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:45:23",
+        "last_claim": "2024-11-04T18:19:19"
+    },
+    "497397906": {
+        "name": "15",
+        "balance": 130,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:57:50",
+        "last_claim": "2024-11-04T18:52:17"
+    },
+    "497397949": {
+        "name": "16",
+        "balance": 164,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:23:57",
+        "last_claim": "2024-11-04T18:23:57"
+    },
+    "497398001": {
+        "name": "17",
+        "balance": 215,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:22:11",
+        "last_claim": "2024-11-04T18:21:46"
+    },
+    "497398057": {
+        "name": "18",
+        "balance": 195,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:25:19",
+        "last_claim": "2024-11-04T18:34:23"
+    },
+    "497398116": {
+        "name": "19",
+        "balance": 194,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:27:09",
+        "last_claim": "2024-11-04T18:37:57"
+    },
+    "497398167": {
+        "name": "20",
+        "balance": 225,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:42:05",
+        "last_claim": "2024-11-04T18:36:30"
+    },
+    "497398226": {
+        "name": "21",
+        "balance": 178,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:40:31",
+        "last_claim": "2024-11-04T20:40:35"
+    },
+    "497398280": {
+        "name": "22",
+        "balance": 109,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:22:07",
+        "last_claim": "2024-11-04T18:27:50"
+    },
+    "497398336": {
+        "name": "23",
+        "balance": 108,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:40:39",
+        "last_claim": "2024-11-04T18:16:04"
+    },
+    "497398403": {
+        "name": "24",
+        "balance": 99,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:20:22",
+        "last_claim": "2024-11-04T18:13:48"
+    },
+    "497398450": {
+        "name": "25",
+        "balance": 98,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:58:57",
+        "last_claim": "2024-11-04T18:37:58"
+    },
+    "497398626": {
+        "name": "26",
+        "balance": 140,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:43:25",
+        "last_claim": "2024-11-04T18:25:56"
+    },
+    "497398928": {
+        "name": "27",
+        "balance": 79,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:20:12",
+        "last_claim": "2024-11-04T18:11:06"
+    },
+    "497398985": {
+        "name": "28",
+        "balance": 287,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:08:13",
+        "last_claim": "2024-11-04T18:22:46"
+    },
+    "497399039": {
+        "name": "29",
+        "balance": 68,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:43:39",
+        "last_claim": "2024-11-04T18:33:26"
+    },
+    "497399101": {
+        "name": "30",
+        "balance": 68,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:57:26",
+        "last_claim": "2024-11-04T18:51:47"
+    },
+    "497399174": {
+        "name": "31",
+        "balance": 88,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:06:40",
+        "last_claim": "2024-11-04T18:21:15"
+    },
+    "497399241": {
+        "name": "32",
+        "balance": 89,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:42:02",
+        "last_claim": "2024-11-04T18:35:46"
+    },
+    "497399313": {
+        "name": "33",
+        "balance": 130,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:25:29",
+        "last_claim": "2024-11-04T18:16:06"
+    },
+    "497399384": {
+        "name": "34",
+        "balance": 89,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:28:25",
+        "last_claim": "2024-11-04T18:29:57"
+    },
+    "497399460": {
+        "name": "35",
+        "balance": 78,
+        "is_max": false,
+        "last_paint": "2024-11-04T19:54:50",
+        "last_claim": "2024-11-04T18:20:40"
+    },
+    "497399525": {
+        "name": "36",
+        "balance": 147,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:57:21",
+        "last_claim": "2024-11-04T20:57:25"
+    },
+    "497399575": {
+        "name": "37",
+        "balance": 158,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:59:13",
+        "last_claim": "2024-11-04T20:59:18"
+    },
+    "497399653": {
+        "name": "38",
+        "balance": 178,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:25:34",
+        "last_claim": "2024-11-04T20:25:39"
+    },
+    "497399710": {
+        "name": "39",
+        "balance": 188,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:40:23",
+        "last_claim": "2024-11-04T20:40:27"
+    },
+    "497399785": {
+        "name": "40",
+        "balance": 167,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:08:11",
+        "last_claim": "2024-11-04T20:08:15"
+    },
+    "497399858": {
+        "name": "41",
+        "balance": 95,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:06:35",
+        "last_claim": "2024-11-04T20:06:40"
+    },
+    "497399952": {
+        "name": "42",
+        "balance": 168,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:42:24",
+        "last_claim": "2024-11-04T20:42:28"
+    },
+    "497400100": {
+        "name": "43",
+        "balance": 157,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:06:43",
+        "last_claim": "2024-11-04T20:06:47"
+    },
+    "497400152": {
+        "name": "44",
+        "balance": 158,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:43:32",
+        "last_claim": "2024-11-04T20:43:36"
+    },
+    "497400218": {
+        "name": "45",
+        "balance": 151,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:20:12",
+        "last_claim": "2024-11-04T20:20:16"
+    },
+    "497400418": {
+        "name": "46",
+        "balance": 111,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:28:28",
+        "last_claim": "2024-11-04T20:28:33"
+    },
+    "497400523": {
+        "name": "47",
+        "balance": 67,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:57:23",
+        "last_claim": "2024-11-04T20:57:28"
+    },
+    "497400593": {
+        "name": "48",
+        "balance": 166,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:20:18",
+        "last_claim": "2024-11-04T20:20:22"
+    },
+    "497400734": {
+        "name": "49",
+        "balance": 179,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:26:57",
+        "last_claim": "2024-11-04T20:27:02"
+    },
+    "497400806": {
+        "name": "50",
+        "balance": 135,
+        "is_max": false,
+        "last_paint": "2024-11-04T20:40:14",
+        "last_claim": "2024-11-04T20:40:19"
+    },
+    "498178211": {
+        "name": "51",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498178458": {
+        "name": "52",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498178583": {
+        "name": "53",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498178787": {
+        "name": "54",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498178962": {
+        "name": "55",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498179159": {
+        "name": "56",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498179513": {
+        "name": "57",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498179641": {
+        "name": "58",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498179730": {
+        "name": "59",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498179822": {
+        "name": "60",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498179907": {
+        "name": "61",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498180004": {
+        "name": "62",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498180083": {
+        "name": "63",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498180236": {
+        "name": "64",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    },
+    "498180361": {
+        "name": "65",
+        "balance": 0,
+        "is_max": false,
+        "last_paint": "2024-11-01T23:01:12",
+        "last_claim": "2024-11-01T23:01:12"
+    }
+}
